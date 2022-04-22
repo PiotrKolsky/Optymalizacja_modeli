@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 ''' 
 Test for Titannic survival model optimalization, call python main.py [n samples] 
-In line 17 set optimalization method [randomized, bayes, hyperband]
+In line 15 set optimalization method [randomized, bayes, hyperband]
 '''
 import sys
 import logging
