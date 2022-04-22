@@ -1,1 +1,1 @@
-Ściągawka z metod optymalizacji metaparametrów modeli ML: randomized grid CV, Bayes optimalization & Hyperband, na przykładzie zbioru Titannic i algorytmu CatBoost.
+Ściągawka z optymalizacji metaparametrów modeli ML metodami: randomized grid CV, Bayes optimalization oraz Hyperband, na przykładzie zbioru Titannic i algorytmu CatBoost.
